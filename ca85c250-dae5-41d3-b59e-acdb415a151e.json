@@ -1,5 +1,14 @@
 {
   "id": "ca85c250-dae5-41d3-b59e-acdb415a151e",
-  "label": "RandomLightPattern",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "RandomLightPattern"
+        ]
+      }
+    ]
+  },
   "meta_config": {}
 }

@@ -1,5 +1,14 @@
 {
   "id": "51c733c6-2fd6-45fe-9be8-fe1b9514adaa",
-  "label": "HueTest",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "HueTest"
+        ]
+      }
+    ]
+  },
   "meta_config": {}
 }

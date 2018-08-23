@@ -1,5 +1,14 @@
 {
   "id": "af95ed34-474d-4e1c-8b75-5f069a9a76f3",
-  "label": "BrightnessStateFution",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "BrightnessStateFution"
+        ]
+      }
+    ]
+  },
   "meta_config": {}
 }

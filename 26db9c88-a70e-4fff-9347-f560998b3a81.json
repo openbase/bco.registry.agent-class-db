@@ -1,5 +1,14 @@
 {
   "id": "26db9c88-a70e-4fff-9347-f560998b3a81",
-  "label": "IlluminationRollerShutter",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "IlluminationRollerShutter"
+        ]
+      }
+    ]
+  },
   "meta_config": {}
 }

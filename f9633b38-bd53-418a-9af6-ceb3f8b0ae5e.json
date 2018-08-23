@@ -1,5 +1,14 @@
 {
   "id": "f9633b38-bd53-418a-9af6-ceb3f8b0ae5e",
-  "label": "HeaterEnergySaving",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "HeaterEnergySaving"
+        ]
+      }
+    ]
+  },
   "meta_config": {}
 }
