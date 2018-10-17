@@ -10,5 +10,10 @@
       }
     ]
   },
-  "meta_config": {}
+  "description": {},
+  "meta_config": {},
+  "priority": "LOW",
+  "category": [
+    "COMFORT"
+  ]
 }

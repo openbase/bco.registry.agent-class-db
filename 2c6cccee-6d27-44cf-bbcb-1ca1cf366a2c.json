@@ -5,10 +5,23 @@
       {
         "key": "en",
         "value": [
-          "AbsenceEnergySaving"
+          "Absence Energy Saving"
+        ]
+      },
+      {
+        "key": "de",
+        "value": [
+          "Abwesenheit Energie Einsparung"
         ]
       }
     ]
   },
-  "meta_config": {}
+  "description": {},
+  "meta_config": {},
+  "priority": "LOW",
+  "category": [
+    "ECONOMY"
+  ],
+  "interruptible": true,
+  "schedulable": true
 }
