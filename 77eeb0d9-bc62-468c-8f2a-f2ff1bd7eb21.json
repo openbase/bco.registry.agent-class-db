@@ -10,5 +10,12 @@
       }
     ]
   },
-  "meta_config": {}
+  "description": {},
+  "meta_config": {},
+  "priority": "HIGH",
+  "category": [
+    "ECONOMY"
+  ],
+  "interruptible": true,
+  "schedulable": true
 }
