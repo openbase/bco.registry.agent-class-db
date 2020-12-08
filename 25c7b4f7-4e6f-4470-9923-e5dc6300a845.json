@@ -1,0 +1,39 @@
+{
+  "id": "25c7b4f7-4e6f-4470-9923-e5dc6300a845",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "XMas Light Controller"
+        ]
+      },
+      {
+        "key": "de",
+        "value": [
+          "Weihnachtsbeleuchtungssteuerung"
+        ]
+      }
+    ]
+  },
+  "description": {
+    "entry": [
+      {
+        "key": "en",
+        "value": "Switches all lights on in case is dark outside."
+      },
+      {
+        "key": "de",
+        "value": "Schaltet die Weihnachtsbeleuchntung an wenn es draußen dunkel ist."
+      }
+    ]
+  },
+  "meta_config": {
+    "entry": [
+      {
+        "key": "AGENT_CLASS_PREFIX",
+        "value": "XMasLight"
+      }
+    ]
+  }
+}
