@@ -1,0 +1,29 @@
+{
+  "id": "eeae71d5-01f4-45a1-9631-a6f911767f18",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Presence Light Scene Activator"
+        ]
+      }
+    ]
+  },
+  "description": {
+    "entry": [
+      {
+        "key": "en",
+        "value": "Turns on the light scene in case its dark and movement was detected."
+      }
+    ]
+  },
+  "meta_config": {
+    "entry": [
+      {
+        "key": "AGENT_CLASS_PREFIX",
+        "value": "PresenceLightScene"
+      }
+    ]
+  }
+}

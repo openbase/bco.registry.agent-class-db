@@ -1,0 +1,29 @@
+{
+  "id": "f6f48739-7de4-4dab-8237-9ed537c1ef6e",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Master Slave Power Cycle"
+        ]
+      }
+    ]
+  },
+  "description": {
+    "entry": [
+      {
+        "key": "en",
+        "value": "Switches on the slave in case the master reaches a certain power threshold."
+      }
+    ]
+  },
+  "meta_config": {
+    "entry": [
+      {
+        "key": "AGENT_CLASS_PREFIX",
+        "value": "MasterSlavePowerCycle"
+      }
+    ]
+  }
+}

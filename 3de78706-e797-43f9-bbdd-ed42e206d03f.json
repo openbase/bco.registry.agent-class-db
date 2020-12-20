@@ -1,0 +1,29 @@
+{
+  "id": "3de78706-e797-43f9-bbdd-ed42e206d03f",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Presence Scene Activator"
+        ]
+      }
+    ]
+  },
+  "description": {
+    "entry": [
+      {
+        "key": "en",
+        "value": "Turns on the scene in case movement was detected."
+      }
+    ]
+  },
+  "meta_config": {
+    "entry": [
+      {
+        "key": "AGENT_CLASS_PREFIX",
+        "value": "PresenceScene"
+      }
+    ]
+  }
+}
